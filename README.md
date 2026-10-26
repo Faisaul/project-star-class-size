@@ -36,6 +36,10 @@ Compared with regular classes, small classes were associated with:
 
 Adding gender and ethnicity controls produced similar estimates. In the exploratory lunch-eligibility analysis, I did not find strong evidence that the small-class difference varied between the two eligibility groups.
 
+![Small vs. regular kindergarten classes](outputs/class_size_results.png)
+
+*Points show estimated differences within schools. Lines show 95% confidence intervals based on school-clustered standard errors.*
+
 ## Limitations
 
 The `AER` documentation describes kindergarten class type but does not clearly establish whether it records original assignment or class attended. Some test scores are missing. Similar missing-score rates across class types do not rule out selection. The lunch-eligibility analysis is exploratory.
