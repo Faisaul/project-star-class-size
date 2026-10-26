@@ -1,5 +1,13 @@
-# Kindergarten Class Size and Student Achievement
+# Kindergarten Class Size & Student Achievement
 
+---
+
+![R](https://img.shields.io/badge/R-Data%20Analysis-276DC3)
+![Data](https://img.shields.io/badge/Data-Project%20STAR-0077B6)
+![Method](https://img.shields.io/badge/Method-School%20Fixed%20Effects-2EA44F)
+![Project](https://img.shields.io/badge/Project-Independent%20Research-6F42C1)
+
+---
 ## Research question
 
 How do kindergarten reading and math scores differ across class types in Project STAR?
